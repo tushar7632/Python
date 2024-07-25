@@ -2397,3 +2397,8 @@
 
 # # Join the sorted elements in the 'items' list using the hyphen ("-") separator and print the resulting string
 # print('-'.join(items)) 
+
+# n= int(input("input a number:"))
+# for i in range(2,11):
+#     print(n, 'x', i, '=', n*i)
+
